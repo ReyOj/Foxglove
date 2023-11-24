@@ -11,3 +11,6 @@ sudo snap install foxglove-studio
 foxglove-studio
 ```
 На этом этап установки завершён.
+## Начало работы
+При первом запуске нас встречает такое окно:
+![Окно программы Foxglove](https://ibb.co/4dyDRGt)
